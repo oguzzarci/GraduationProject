@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">622266831505-v3ish6a3ao6tthmakg2m83re6nhgbrv4.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bitirmeprojesi-a7770.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">622266831505</string>
+    <string name="google_api_key" translatable="false">AIzaSyAGfBeT3o9vMJyW0AJ817X80NObN1xiAoU</string>
+    <string name="google_app_id" translatable="false">1:622266831505:android:6c0ea62b77fc37cc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAGfBeT3o9vMJyW0AJ817X80NObN1xiAoU</string>
+    <string name="google_storage_bucket" translatable="false">bitirmeprojesi-a7770.appspot.com</string>
+    <string name="project_id" translatable="false">bitirmeprojesi-a7770</string>
+</resources>

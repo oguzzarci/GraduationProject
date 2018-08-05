@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.app.diceroid.nerede.Activities.KidsActivity"
+    tools:layout_editor_absoluteY="81dp">
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="0dp"
+        android:layout_height="520dp"
+        android:background="#3498db"
+        android:divider="@drawable/divider"
+        android:dividerHeight="5dp">
+
+    </ListView>
+
+    <Button
+        android:id="@+id/buttonKidsAdd"
+
+
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="30dp"
+        android:layout_marginStart="24dp"
+
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_add_kids"
+        android:elevation="3dp"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:text="Çocuk Ekle"
+        android:textColor="#e8f5e9"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/listView"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/buttonLogout"
+
+
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="16dp"
+        android:background="@drawable/button_add_exit"
+        android:elevation="3dp"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:text="ÇIKIŞ"
+        android:textColor="#e8f5e9"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="@+id/buttonKidsAdd"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/buttonKidsAdd"
+        app:layout_constraintTop_toTopOf="@+id/buttonKidsAdd" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="173dp"
+        android:background="#3498db"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="parent"
+        app:layout_constraintVertical_bias="0.512" />
+
+</android.support.constraint.ConstraintLayout>

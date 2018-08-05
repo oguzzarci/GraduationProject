@@ -1,0 +1,4 @@
+#Wed Jun 27 16:22:16 GMT+02:00 2018
+base.0=C\:\\Users\\alber\\Desktop\\pojemiz\\projeSon_2\\projeSon\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22
+path.0=classes.dex
+renamed.0=classes.dex
