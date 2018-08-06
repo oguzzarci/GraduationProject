@@ -1,5 +1,13 @@
+<p align="center">
+  <img src="https://www.trakya.edu.tr/admin/tools/theme/www_v2/images/logo/tr/logo.png">
+</p>
+
 # GraduationProject
+
+
 Trakya University Computer Engineering For Android App
+
+<img src="https://storage.googleapis.com/cdn.thenewstack.io/media/2017/10/7dd4a69d-firebase.png" width="300dp">
 
 # Splash Screen
 
