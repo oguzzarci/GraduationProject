@@ -3,7 +3,7 @@ Trakya University Computer Engineering For Android App
 
 # Splash Screen
 
-![Splash Screen](https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/splash.png)
+<img src="https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/splash.png" width="300dp">
 
 
 This screen welcomes you first
@@ -12,7 +12,7 @@ This screen welcomes you first
 
 # Login Screen
 
-![Login Screen](https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/login.png)
+<img src="https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/login.png" width="300dp">
 
 Secondly you will meet this screen
 
@@ -21,7 +21,7 @@ Secondly you will meet this screen
 
 # Register Screen
 
-![Register Screen](https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/register.png)
+<img src="https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/register.png" width="300dp">
 
     
  - You can register to the system with your e-mail address and password
@@ -29,13 +29,13 @@ Secondly you will meet this screen
 
 # ResetPassword Screen
 
-![ResetPassword Screen](https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/lost_password.png)
+<img src="https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/lost_password.png" width="300dp">
 
  - You can change your password by entering your registered mail address
 
 # Kids Add Screen
 
-![Kids Add Screen](https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/add_children.png)
+<img src="https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/add_children.png" width="300dp">
 
   - You will first enter the name
   - Second you must choose the range you want to be in
@@ -44,13 +44,13 @@ Secondly you will meet this screen
 
   - You can see your children's locations on this screen
   
-  ![View Locations Screen 1](https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/map.png)
+ <img src="https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/map.png" width="300dp">
   
-  ![View Locations Screen 2](https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/map2.png)
+<img src="https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/map2.png" width="300dp">
   
-  ![View Locations Screen 3](https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/map3.png)
+<img src="https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/map3.png" width="300dp">
   
-  ![View Locations Screen 4](https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/map4.png)
+<img src="https://github.com/oguzzarci/GraduationProject/blob/master/projectSS/map4.png" width="300dp">
  
 
 ## Thank You !
