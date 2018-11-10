@@ -2,9 +2,7 @@ package com.app.diceroid.nerede.ResourceFiles;
 
 import android.os.Handler;
 
-/**
- * Created by Deniz TERZI on 3/24/2018.
- */
+
 
 public class CoutdownValidate {
     public static void countdown(final ICallback callback, final int time)
